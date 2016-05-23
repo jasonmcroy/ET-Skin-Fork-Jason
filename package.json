@@ -1,8 +1,8 @@
 {
     "name": "JSMSkin.myskin",
-    "displayName": "Default Skin",
+    "displayName": "JSM Emby Skin",
     "version": "1.0.0",
-    "description": "The default Emby skin.",
+    "description": "JSM's Emby Skin",
     "plugin": "plugin.js",
     "homepage": "https://github.com/MediaBrowser/emby-web-defaultskin",
     "thumb": "https://drive.google.com/open?id=0By-tsUWpb_j6blNaYng2c2FfS1k",
