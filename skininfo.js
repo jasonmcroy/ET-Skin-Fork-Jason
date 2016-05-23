@@ -1,7 +1,7 @@
 define([''], function () {
 
     return {
-        id: 'JSMSkin.myskin',
-        name: 'JSM Emby Skin'
+        id: 'emby.embroil',
+        name: 'Embroil'
     };
 });
