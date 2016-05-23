@@ -16,9 +16,9 @@ define(['playbackManager', 'pluginManager', 'browser', 'connectionManager', 'eve
 
         var self = this;
 
-        self.name = 'JSM Emby Skin';
+        self.name = 'Embroil';
         self.type = 'skin';
-        self.id = 'JSMSkin.myskin';
+        self.id = 'emby.embroil';
 
         var dependencyPrefix = self.id;
         var settingsObjectName = dependencyPrefix + '/skinsettings';
