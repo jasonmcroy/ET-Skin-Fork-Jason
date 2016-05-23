@@ -1,8 +1,8 @@
 {
-    "name": "JSMSkin.myskin",
-    "displayName": "JSM Emby Skin",
+    "name": "emby.embroil",
+    "displayName": "Embroil",
     "version": "1.0.0",
-    "description": "JSM's Emby Skin",
+    "description": "Embroil is a fork of the default Emby Theater Skin",
     "plugin": "plugin.js",
     "homepage": "https://github.com/jasonmcroy/ET-Skin-Fork-Jason",
     "thumb": "https://drive.google.com/open?id=0By-tsUWpb_j6blNaYng2c2FfS1k",
